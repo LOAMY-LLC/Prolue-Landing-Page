@@ -19,7 +19,9 @@ const Header = () => {
                 </ul>
             </div>
             <div className='mr-[1.2em]'>
-                <p className='bg-[#0F7670] text-[0.8em] font-semibold py-2 px-2 text-white rounded-md'>Explore our Product</p>
+                <p className='bg-[#0F7670] text-[0.8em] font-semibold py-2 px-2
+                cursor-pointer text-white rounded-md'>Explore our Product
+                </p>
             </div>
         </div>
 

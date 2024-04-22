@@ -2,8 +2,8 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='container'>
-     <div className='h-[15rem] mt-[3rem] flex flex-col space-y-4'>
+    <div className='container '>
+     <div className='h-[15rem] my-[3rem] flex flex-col space-y-4'>
         <div className='text-center  mt-[5rem] text-[2.5rem] font-bold'>
             <h1>The Future of Digital</h1>   
         </div>
@@ -20,7 +20,8 @@ const Hero = () => {
        
         <div className=' w-[9rem] mx-auto'>
                 <p className='bg-[#042F2F] text-[0.8em] font-semibold py-2 text-center
-                 text-white rounded-md'>Explore our Product
+                 text-white rounded-md cursor-pointer'>
+                Explore our Product
                 </p>
         </div>
 
