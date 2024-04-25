@@ -5,7 +5,7 @@ import frame2 from '../assets/Images/frame2.jpeg';
 
 const New = () => {
   return (
-    <div className='container bg-[#FAFAFA] px-[6rem]'>
+    <div className='container bg-[#FAFAFA] px-[6rem] mb-[6rem]'>
         <div className='flex space-x-[4rem]'>
             {/* 1st div */}
             <div className='w-[60%] flex flex-col mr-[2rem] border-l-[#ED4F05]'>

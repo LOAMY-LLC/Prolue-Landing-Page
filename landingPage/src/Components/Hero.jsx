@@ -1,8 +1,16 @@
-import React from 'react'
+import React from 'react';
+import bg from '../assets/Images/bgLoamy.jpeg'
 
 const Hero = () => {
   return (
-    <div className='container '>
+    <div className='container ' 
+    style= {{
+      background: `url(${bg})`,
+      backgroundSize: "cover",
+      backgroundPosition: " center center",
+      backgroundAttachment: "scroll",
+      backgroundRepeat: "no-repeat"
+    }}>
      <div className='h-[15rem] my-[3rem] flex flex-col space-y-4'>
         <div className='text-center  mt-[5rem] text-[2.5rem] font-bold'>
             <h1>The Future of Digital</h1>   

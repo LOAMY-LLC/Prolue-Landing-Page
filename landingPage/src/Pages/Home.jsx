@@ -4,6 +4,7 @@ import About from '../Components/AboutUs';
 import Products from '../Components/Products';
 import Why from '../Components/WhyUs';
 import New from '../Components/New';
+import Positions from '../Components/Positions';
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
         <Products />
         <Why />
         <New />
+        <Positions />
     </div>
   )
 }
