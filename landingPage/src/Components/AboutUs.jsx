@@ -10,7 +10,7 @@ const AboutUs = () => {
                 rounded-full' >About</p>
 
                 <p>
-                    Loamy LLC was founded in 2024 by a group of tech enthusiasts and 
+                    Loamy LLC was founded by a group of tech enthusiasts and 
                     industry veterans who saw the potential of digital commerce to revolutionize 
                     the way businesses operate and consumers shop. Our mission is to pioneer
                      the future of digital commerce by leveraging technology to empower businesses 
