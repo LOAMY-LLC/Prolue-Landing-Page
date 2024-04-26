@@ -5,6 +5,7 @@ import Products from '../Components/Products';
 import Why from '../Components/WhyUs';
 import New from '../Components/New';
 import Positions from '../Components/Positions';
+import Promise from '../Components/Promise'
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
         <Why />
         <New />
         <Positions />
+        <Promise />
     </div>
   )
 }
